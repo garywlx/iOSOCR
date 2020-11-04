@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E3FB6664-1EC0-409A-A915-AD0814FE1E1A"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E0F82360-A9F4-4235-BC21-165B1D1B3DD1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AzOcr/QGScanCodeVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "360"
+            endingLineNumber = "360"
+            landmarkName = "didPressTakePhoto()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ACED84D0-D76B-427F-B705-138D4F800C83"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AzOcr/QGScanCodeVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "391"
+            endingLineNumber = "391"
+            landmarkName = "imgPro(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "34D1F26F-695A-46C1-9F2A-A74A0DB48945"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AzOcr/QGScanCodeVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "396"
+            endingLineNumber = "396"
+            landmarkName = "imgPro(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "34D1F26F-695A-46C1-9F2A-A74A0DB48945 - f7761a354d0bf65a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AzOcr.QGScanCodeVC.imgPro(__C.UIImage) -&gt; ()"
+                  moduleName = "AzOcr"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/autozi01/workspc/AzOcr/AzOcr/QGScanCodeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "396"
+                  endingLineNumber = "396"
+                  offsetFromSymbolStart = "976">
+               </Location>
+               <Location
+                  uuid = "34D1F26F-695A-46C1-9F2A-A74A0DB48945 - ddd9f28b8e3678d4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "implicit closure #4 (Swift.String) -&gt; () in implicit closure #3 (AzOcr.QGScanCodeVC) -&gt; (Swift.String) -&gt; () in AzOcr.QGScanCodeVC.imgPro(__C.UIImage) -&gt; ()"
+                  moduleName = "AzOcr"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/autozi01/workspc/AzOcr/AzOcr/QGScanCodeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "396"
+                  endingLineNumber = "396"
+                  offsetFromSymbolStart = "44">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
